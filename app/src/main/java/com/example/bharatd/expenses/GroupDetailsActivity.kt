@@ -29,7 +29,7 @@ class GroupDetailsActivity : AppCompatActivity() {
             val builder = AlertDialog.Builder(context)
             builder.setTitle("New Member")
 
-           
+
 
             // https://stackoverflow.com/questions/10695103/creating-custom-alertdialog-what-is-the-root-view
             // Seems ok to inflate view with null rootView
